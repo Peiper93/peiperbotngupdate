@@ -1,11 +1,12 @@
 {
-  "versao": "0.2.3",
+  "versao": "0.2.4",
   "novidades": [
-    "Bestiary mais rápido entre uma rodada e outra",
-    "Melhorias de estabilidade"
+    "Seus arquivos agora ficam numa pasta própria do Windows: dá para deixar o PeiperBot até na área de trabalho, sem encher ela de arquivos.",
+    "Nada se perde: contas, fila e preferências são levadas sozinhas na primeira abertura.",
+    "Novo botão Registros na tela Logs: se algo der errado, é só mandar o arquivo mais recente para o suporte."
   ],
-  "arquivo": "versoes/0.2.3/PeiperBotNG.exe",
-  "sha256": "eaf61fb523be974f7ca61be4cddebe5b5953b8c2e4665e1c995590448bc3ca2b",
-  "tamanho": 11314688,
-  "assinatura": "GQ5ntwihfYB3e5rGn5FVxgOLhiyuwSycQKjohpdlDOIu4froF5pj39rUy3/eCfr323KVktE0c204SPHMp7pBBg=="
+  "arquivo": "versoes/0.2.4/PeiperBotNG.exe",
+  "sha256": "3cdc863d7c14a614b0b3b43deb53eead433cea163f1b4cc129ee16c3e9689855",
+  "tamanho": 11342848,
+  "assinatura": "8I3EFU9rMJYC85L8ui/wpJgLiC3k8ntbjJiKmkYCaQfuiXBprvISmKE7wVSRmnVB7A8WKGACERMw9zBA4X/GBg=="
 }
