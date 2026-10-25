@@ -1,12 +1,11 @@
 {
-  "versao": "0.2.7",
+  "versao": "0.2.8",
   "novidades": [
-    "Senhas das contas mais protegidas",
-    "Nova opção: entrar na conta pela janela do jogo, sem guardar a senha no bot",
-    "Configuração guardada de forma mais segura"
+    "Aviso no Painel quando uma conta espera você entrar",
+    "A janela do jogo vem para a frente na hora de entrar na conta"
   ],
-  "arquivo": "versoes/0.2.7/PeiperBotNG.exe",
-  "sha256": "2f461e4c09a72bfa1f729acf11a0d6a0d73a48408734eced40db8accfda2530a",
-  "tamanho": 11503104,
-  "assinatura": "6GMgdq7rZyNxyZQXMeU+mRYYT1dyXHwjRVvL8d/7PSCW8jqsAs2vSguP25dgkQ9f3X1+Im+pnXCjpYWYdkHhBQ=="
+  "arquivo": "versoes/0.2.8/PeiperBotNG.exe",
+  "sha256": "93da9ca85a16effa230f1746777c9258b751c11217058d5cd74cf855d9e9e216",
+  "tamanho": 11505664,
+  "assinatura": "p7nPOIgc6bqLAUDIGzjWZSXtJC6FpTDX5uDKp5yMfetiWRQYWpMKJujCFTbskPEuFlvTP0XkgprZ7OrruKxTCA=="
 }
