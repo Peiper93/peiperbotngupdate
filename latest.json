@@ -1,11 +1,12 @@
 {
-  "versao": "0.2.6",
+  "versao": "0.2.7",
   "novidades": [
-    "Reconexão mais estável: quando a janela de uma conta cai, o personagem volta ao jogo sozinho.",
-    "O bot não fica mais preso na tela de login depois de reabrir uma janela."
+    "Senhas das contas mais protegidas",
+    "Nova opção: entrar na conta pela janela do jogo, sem guardar a senha no bot",
+    "Configuração guardada de forma mais segura"
   ],
-  "arquivo": "versoes/0.2.6/PeiperBotNG.exe",
-  "sha256": "a95d48c684960457f0d066d446e85cea503789668dcc51e9780a1c57020ed940",
-  "tamanho": 11458048,
-  "assinatura": "qIiSx8QUuwBVlJ6vBOMYVhwodyY2b403cexrOeohfTIJyhlaJv1B//vvI0pYyZMFc8Y0PbmiSrSG1Y4/q18nDQ=="
+  "arquivo": "versoes/0.2.7/PeiperBotNG.exe",
+  "sha256": "2f461e4c09a72bfa1f729acf11a0d6a0d73a48408734eced40db8accfda2530a",
+  "tamanho": 11503104,
+  "assinatura": "6GMgdq7rZyNxyZQXMeU+mRYYT1dyXHwjRVvL8d/7PSCW8jqsAs2vSguP25dgkQ9f3X1+Im+pnXCjpYWYdkHhBQ=="
 }
