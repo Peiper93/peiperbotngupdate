@@ -1,11 +1,11 @@
 {
-  "versao": "0.2.8",
+  "versao": "0.2.9",
   "novidades": [
-    "Aviso no Painel quando uma conta espera você entrar",
-    "A janela do jogo vem para a frente na hora de entrar na conta"
+    "Correção na conferência das blessings",
+    "O botão Registros abre a pasta na frente das outras janelas"
   ],
-  "arquivo": "versoes/0.2.8/PeiperBotNG.exe",
-  "sha256": "93da9ca85a16effa230f1746777c9258b751c11217058d5cd74cf855d9e9e216",
-  "tamanho": 11505664,
-  "assinatura": "p7nPOIgc6bqLAUDIGzjWZSXtJC6FpTDX5uDKp5yMfetiWRQYWpMKJujCFTbskPEuFlvTP0XkgprZ7OrruKxTCA=="
+  "arquivo": "versoes/0.2.9/PeiperBotNG.exe",
+  "sha256": "17052f38a9cac7bb1c8674b19131e72acfefa669a2b9564fc909f043e431199d",
+  "tamanho": 11525120,
+  "assinatura": "yKwMSKtvHQRgfjTomk/mNFb2QjcDddvt6XMr+HOnE6aM4hU5yQX2XKJ7+8rq65X0DgifuOSR6p3CvCtoUhBPAA=="
 }
