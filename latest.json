@@ -1,11 +1,11 @@
 {
-  "versao": "0.2.10",
+  "versao": "0.3.0",
   "novidades": [
-    "Mais estável em computador ou internet lentos",
-    "Melhorias de estabilidade"
+    "O bot inteiro se adapta a computador e internet lentos",
+    "Login mais estável com internet lenta"
   ],
-  "arquivo": "versoes/0.2.10/PeiperBotNG.exe",
-  "sha256": "64788a8d2e07f1349a42747dabaa75594bcd032f1cdd0fabdbcab06940b82183",
-  "tamanho": 11529216,
-  "assinatura": "BkKAYLqHAIRFp9Zh5MVdLHrffefYHWcN6zqKikq4ihMtkPxLbHLoC6uTTqUz24yrktLtZCc9OACK9bVfMKACCQ=="
+  "arquivo": "versoes/0.3.0/PeiperBotNG.exe",
+  "sha256": "de1cf1d8c2d28db651328bc2a435243af10f8e5e88357012a1c0914381bc9eaf",
+  "tamanho": 11537408,
+  "assinatura": "hNlGCDiY4olBztMSYWFdiXX4t0oGP8ocdWo3PZGv9vLQTDFBoCc2FfNEYMC9GGGPeoGjwqYa6KQoV+TohzRoBw=="
 }
