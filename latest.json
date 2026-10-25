@@ -1,10 +1,12 @@
 {
   "versao": "0.2.5",
   "novidades": [
-    "Barra automática do bot: magias, curas e postura montadas para cada personagem e cada cave (caixa nas telas Caçada e Bestiary),Painel mostra os kills da cave ao vivo em todos os modos,Knight usa Utamo Tempo quando apanha demais; sorcerer cura o knight com UH"
+    "Barra automática do bot: magias, curas e postura montadas para cada personagem e cada cave (caixa nas telas Caçada e Bestiary)",
+    "Painel mostra os kills da cave ao vivo em todos os modos",
+    "Knight usa Utamo Tempo quando apanha demais; sorcerer cura o knight com UH"
   ],
   "arquivo": "versoes/0.2.5/PeiperBotNG.exe",
   "sha256": "d339d2ae1bc1634912288233bbeebe2dbfbb28fb11d60dc11a7d5ec70d220b5d",
   "tamanho": 11458048,
-  "assinatura": "ySURll49WEM+WBMLNB5B7zYMqFH51LTS1Rh5mXTPDTFNr5sdhZ6NPej3E4L045E9EcAmvmWaV7dJZNVIT1woBw=="
+  "assinatura": "6vdSZI0nvtSP2Yt39nrtPrZOM4Gk4w+UsAFsHeVqq2iUe5krwFZLPn6VKkDekH/j+Q5QA0P7ah/nxiJCiQXXDA=="
 }
