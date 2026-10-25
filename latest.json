@@ -1,12 +1,10 @@
 {
-  "versao": "0.2.4",
+  "versao": "0.2.5",
   "novidades": [
-    "Seus arquivos agora ficam numa pasta própria do Windows: dá para deixar o PeiperBot até na área de trabalho, sem encher ela de arquivos.",
-    "Nada se perde: contas, fila e preferências são levadas sozinhas na primeira abertura.",
-    "Novo botão Registros na tela Logs: se algo der errado, é só mandar o arquivo mais recente para o suporte."
+    "Barra automática do bot: magias, curas e postura montadas para cada personagem e cada cave (caixa nas telas Caçada e Bestiary),Painel mostra os kills da cave ao vivo em todos os modos,Knight usa Utamo Tempo quando apanha demais; sorcerer cura o knight com UH"
   ],
-  "arquivo": "versoes/0.2.4/PeiperBotNG.exe",
-  "sha256": "3cdc863d7c14a614b0b3b43deb53eead433cea163f1b4cc129ee16c3e9689855",
-  "tamanho": 11342848,
-  "assinatura": "8I3EFU9rMJYC85L8ui/wpJgLiC3k8ntbjJiKmkYCaQfuiXBprvISmKE7wVSRmnVB7A8WKGACERMw9zBA4X/GBg=="
+  "arquivo": "versoes/0.2.5/PeiperBotNG.exe",
+  "sha256": "d339d2ae1bc1634912288233bbeebe2dbfbb28fb11d60dc11a7d5ec70d220b5d",
+  "tamanho": 11458048,
+  "assinatura": "ySURll49WEM+WBMLNB5B7zYMqFH51LTS1Rh5mXTPDTFNr5sdhZ6NPej3E4L045E9EcAmvmWaV7dJZNVIT1woBw=="
 }
