@@ -1,11 +1,11 @@
 {
-  "versao": "0.2.9",
+  "versao": "0.2.10",
   "novidades": [
-    "Correção na conferência das blessings",
-    "O botão Registros abre a pasta na frente das outras janelas"
+    "Mais estável em computador ou internet lentos",
+    "Melhorias de estabilidade"
   ],
-  "arquivo": "versoes/0.2.9/PeiperBotNG.exe",
-  "sha256": "17052f38a9cac7bb1c8674b19131e72acfefa669a2b9564fc909f043e431199d",
-  "tamanho": 11525120,
-  "assinatura": "yKwMSKtvHQRgfjTomk/mNFb2QjcDddvt6XMr+HOnE6aM4hU5yQX2XKJ7+8rq65X0DgifuOSR6p3CvCtoUhBPAA=="
+  "arquivo": "versoes/0.2.10/PeiperBotNG.exe",
+  "sha256": "64788a8d2e07f1349a42747dabaa75594bcd032f1cdd0fabdbcab06940b82183",
+  "tamanho": 11529216,
+  "assinatura": "BkKAYLqHAIRFp9Zh5MVdLHrffefYHWcN6zqKikq4ihMtkPxLbHLoC6uTTqUz24yrktLtZCc9OACK9bVfMKACCQ=="
 }
