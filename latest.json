@@ -1,11 +1,10 @@
 {
-  "versao": "0.4.2",
+  "versao": "0.4.3",
   "novidades": [
-    "A janela de resumo ao sair da caçada agora fecha sozinha",
-    "Caça no mesmo ritmo com a janela do jogo minimizada"
+    "Melhorias de compatibilidade com antivírus"
   ],
-  "arquivo": "versoes/0.4.2/PeiperBotNG.exe",
-  "sha256": "c532e34dc5b68d2c638ca06701831062b890dff84700188856d3df642dd42938",
-  "tamanho": 11706368,
-  "assinatura": "gZNQy0XJz/qt0jycXBnpd9Cwtrlxgt60NCcl/k/FUytCroePOZo7kaOA1wCsXW6GthIolWmZ/Curb6PnLcoCAA=="
+  "arquivo": "versoes/0.4.3/PeiperBotNG.exe",
+  "sha256": "85368c0ad005eba8c2498cf9171d96a2cd79e87cb2f6b1db2192275a60359a25",
+  "tamanho": 11706880,
+  "assinatura": "xUwnLjWdjTdWJCVr+KoiBdJWXTq7DYqmT2H74WKq15/0/R98rvvn8BdEQ0vCZ7ZoBZmRPNb/RT48hVKMhNkuAw=="
 }
