@@ -1,11 +1,12 @@
 {
-  "versao": "0.3.5",
+  "versao": "0.3.6",
   "novidades": [
-    "Painel mostra todos os monstros da caçada",
+    "Barra de magias ajustada para qualquer tamanho de party",
+    "Mais economia nas caçadas fáceis",
     "Melhorias de estabilidade"
   ],
-  "arquivo": "versoes/0.3.5/PeiperBotNG.exe",
-  "sha256": "5d76c560aad94238cd46a84bcc5f6ffc0a39d6e49833df42d4c238866ea01c33",
-  "tamanho": 11607552,
-  "assinatura": "0B1bB+7RHiFokikRz54qPWQqFbxc+7o+dbhnXSeTnBoecJw8fBEHBP9rkiborGMh4OJuH1VY9ct4/aGQ8RjMAw=="
+  "arquivo": "versoes/0.3.6/PeiperBotNG.exe",
+  "sha256": "84a7bcbb5922f853eccc37b135fd4d751254a80134427ecb03270d14ab863284",
+  "tamanho": 11611648,
+  "assinatura": "/e+khIByviVcjUeh3PhiMKJD8s7mD7x3aAifLo2cYkf6WVB6fUpUndo2c10aQ4kiZ7wZa9MFsUIYLtpQSrDUDw=="
 }
