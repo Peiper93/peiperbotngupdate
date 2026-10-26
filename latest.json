@@ -1,12 +1,12 @@
 {
-  "versao": "0.3.1",
+  "versao": "0.3.2",
   "novidades": [
-    "Barra automática do bot agora se ajusta sozinha durante a caça: cura, mana, magias e Utito/Utamo Tempo do knight.",
-    "Druid e sorcerer da party curam o knight mais cedo quando ele precisa.",
-    "Os ajustes ficam guardados por cave e valem na próxima visita."
+    "Barra automática com reflexo: fica mais segura na hora quando a vida cai rápido, para evitar mortes.",
+    "Volta a render mais depois de um tempo tranquilo, sem ficar indo e voltando.",
+    "Correção na montagem da barra em caves com monstros sem resistências."
   ],
-  "arquivo": "versoes/0.3.1/PeiperBotNG.exe",
-  "sha256": "1feb62cfdb22fc2ee9288ba4bdba2b5cebeb481839d2166ffee8e49bdadef8d2",
-  "tamanho": 11586560,
-  "assinatura": "cBGEDMl8qjJWrEcnhJfIpWTiLCPrIVxN8YSaRr94KZIY7js2Na0ReMTkte4klj8wZYPlN6nieyn0EERza1wECQ=="
+  "arquivo": "versoes/0.3.2/PeiperBotNG.exe",
+  "sha256": "c3269bbbd86807be2ee84b45579b35dbe19ea24e324f0f10cff1c346eea121b8",
+  "tamanho": 11590656,
+  "assinatura": "DrI/eSVx3zeICmMJ2hfvcj8Nhm6Mh8ao7dJR4E7GD/pyOvjhemF+ZW0b5QFfxqidP7QRGciprqmT7luqmrr+Dg=="
 }
