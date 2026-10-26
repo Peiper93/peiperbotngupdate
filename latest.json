@@ -1,11 +1,11 @@
 {
-  "versao": "0.4.0",
+  "versao": "0.4.1",
   "novidades": [
-    "A janela de resumo ao sair da caçada fecha sozinha",
+    "Caça no mesmo ritmo com a janela do jogo minimizada",
     "Melhorias contínuas no Bestiary e na estabilidade"
   ],
-  "arquivo": "versoes/0.4.0/PeiperBotNG.exe",
-  "sha256": "5d0b200f6b73587d49db7069f87e0cbd86edcfcc1067654222076ce54166eff1",
-  "tamanho": 11702272,
-  "assinatura": "nBRsoONFtXmVZCBLzE2bRM3KoIt9PEVi1LhJa9T7uvW+eeFmS7lI3dkXbJtkITM7bZJWgoNoYaNpAFufqRvrBQ=="
+  "arquivo": "versoes/0.4.1/PeiperBotNG.exe",
+  "sha256": "3a8ff19ca07babd1336e266547cd13b41de6297e79b3e7c7791cbebac0fba226",
+  "tamanho": 11706368,
+  "assinatura": "magEBkmF4qE76KzxWifqZJRglM3PKMfsoEfdXFub58Qo0U93gpTDR9d9q1jWhRUXSkMbVCXjJL5WuOEzfkM8DA=="
 }
