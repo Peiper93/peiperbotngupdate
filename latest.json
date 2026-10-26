@@ -1,12 +1,12 @@
 {
-  "versao": "0.3.3",
+  "versao": "0.3.4",
   "novidades": [
-    "Barra de magias mais inteligente",
-    "Mais proteção nas caçadas difíceis",
+    "Barra de magias mais econômica em caçadas fáceis",
+    "Equipamento conferido antes de cada caçada",
     "Melhorias de estabilidade"
   ],
-  "arquivo": "versoes/0.3.3/PeiperBotNG.exe",
-  "sha256": "74c808cadb844d32cb9d441a6388314947ce5291e3e0481ebfaa36f3b10af4cc",
-  "tamanho": 11594752,
-  "assinatura": "MTcyRLrQdeEPaq0QNu5em9MAuQM1fvy1c/pMdPGUgyXCjjnjc5Ic6x7sjutLq8dcp5y3TUIf8Uyj9DpTzc/ECw=="
+  "arquivo": "versoes/0.3.4/PeiperBotNG.exe",
+  "sha256": "dbda47a5cd100805a7d8fea4417aa9cdb6277b7c3c38bfea7e93458c4deb7979",
+  "tamanho": 11608064,
+  "assinatura": "EKOsOTITD28mo28xHjNH5BewAhIAG4o88NHe6gvqx0Ky9RrYXyjfu/Kf8O3q5PeELhBoZXHTWKtjJL8IvLa/CQ=="
 }
