@@ -1,11 +1,11 @@
 {
-  "versao": "0.3.9",
+  "versao": "0.4.0",
   "novidades": [
-    "Tempo de cada cave no Bestiary com botoes de menos e mais",
-    "Melhorias na tela do Bestiary"
+    "A janela de resumo ao sair da caçada fecha sozinha",
+    "Melhorias contínuas no Bestiary e na estabilidade"
   ],
-  "arquivo": "versoes/0.3.9/PeiperBotNG.exe",
-  "sha256": "357215ed8579998672174f7af1256854199c70f189822a4aa932710df7ea8390",
-  "tamanho": 11698176,
-  "assinatura": "vbAseF/0HlI+YWBw8buVd3QDnMLIGisD/3mTALy1eITnCna8YLTWoxbXW/J0pKQZnkmN5VL33vr+ZCCz6y2UAA=="
+  "arquivo": "versoes/0.4.0/PeiperBotNG.exe",
+  "sha256": "5d0b200f6b73587d49db7069f87e0cbd86edcfcc1067654222076ce54166eff1",
+  "tamanho": 11702272,
+  "assinatura": "nBRsoONFtXmVZCBLzE2bRM3KoIt9PEVi1LhJa9T7uvW+eeFmS7lI3dkXbJtkITM7bZJWgoNoYaNpAFufqRvrBQ=="
 }
