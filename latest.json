@@ -1,12 +1,12 @@
 {
-  "versao": "0.3.6",
+  "versao": "0.3.7",
   "novidades": [
-    "Barra de magias ajustada para qualquer tamanho de party",
-    "Mais economia nas caçadas fáceis",
+    "Barra de magias mais rápida nas caçadas fáceis",
+    "Barra completa nas caçadas intermediárias e difíceis",
     "Melhorias de estabilidade"
   ],
-  "arquivo": "versoes/0.3.6/PeiperBotNG.exe",
-  "sha256": "84a7bcbb5922f853eccc37b135fd4d751254a80134427ecb03270d14ab863284",
+  "arquivo": "versoes/0.3.7/PeiperBotNG.exe",
+  "sha256": "0a6b73090ae92d5fc2410bd959512909a0173ca312f4978330c0d13ad5911466",
   "tamanho": 11611648,
-  "assinatura": "/e+khIByviVcjUeh3PhiMKJD8s7mD7x3aAifLo2cYkf6WVB6fUpUndo2c10aQ4kiZ7wZa9MFsUIYLtpQSrDUDw=="
+  "assinatura": "kg47IJ2eWY4HJNBh7iGApIEbZIG+XRig2ZGnD3cN/M68EdxSkXyj3biGp/fDWPaIetrAUqAMRNvjTOrYZm+oDw=="
 }
