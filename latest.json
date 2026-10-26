@@ -1,11 +1,11 @@
 {
-  "versao": "0.3.8",
+  "versao": "0.3.9",
   "novidades": [
-    "Abre em PC sem administrador (trabalho, lan house): no primeiro uso o bot baixa o Node.js direto para a pasta do usuario, sem instalador.",
-    "O download do Node.js e conferido para garantir que veio do site oficial, e o progresso aparece na tela."
+    "Tempo de cada cave no Bestiary com botoes de menos e mais",
+    "Melhorias na tela do Bestiary"
   ],
-  "arquivo": "versoes/0.3.8/PeiperBotNG.exe",
-  "sha256": "c246183e610851b8ce46deb65779983bd8a4478b4a8eb274459be4b80a2f846b",
-  "tamanho": 11696640,
-  "assinatura": "iU4J3EI4Yvd+6GJlLDtsdTjPk/Xz1UaRHS966WSx2LLb7De/2WdXjUNV6PIoHnpY10reDPWlNP2ykQcfPURIAw=="
+  "arquivo": "versoes/0.3.9/PeiperBotNG.exe",
+  "sha256": "357215ed8579998672174f7af1256854199c70f189822a4aa932710df7ea8390",
+  "tamanho": 11698176,
+  "assinatura": "vbAseF/0HlI+YWBw8buVd3QDnMLIGisD/3mTALy1eITnCna8YLTWoxbXW/J0pKQZnkmN5VL33vr+ZCCz6y2UAA=="
 }
