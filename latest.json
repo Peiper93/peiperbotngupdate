@@ -1,12 +1,11 @@
 {
-  "versao": "0.3.7",
+  "versao": "0.3.8",
   "novidades": [
-    "Barra de magias mais rápida nas caçadas fáceis",
-    "Barra completa nas caçadas intermediárias e difíceis",
-    "Melhorias de estabilidade"
+    "Abre em PC sem administrador (trabalho, lan house): no primeiro uso o bot baixa o Node.js direto para a pasta do usuario, sem instalador.",
+    "O download do Node.js e conferido para garantir que veio do site oficial, e o progresso aparece na tela."
   ],
-  "arquivo": "versoes/0.3.7/PeiperBotNG.exe",
-  "sha256": "0a6b73090ae92d5fc2410bd959512909a0173ca312f4978330c0d13ad5911466",
-  "tamanho": 11611648,
-  "assinatura": "kg47IJ2eWY4HJNBh7iGApIEbZIG+XRig2ZGnD3cN/M68EdxSkXyj3biGp/fDWPaIetrAUqAMRNvjTOrYZm+oDw=="
+  "arquivo": "versoes/0.3.8/PeiperBotNG.exe",
+  "sha256": "c246183e610851b8ce46deb65779983bd8a4478b4a8eb274459be4b80a2f846b",
+  "tamanho": 11696640,
+  "assinatura": "iU4J3EI4Yvd+6GJlLDtsdTjPk/Xz1UaRHS966WSx2LLb7De/2WdXjUNV6PIoHnpY10reDPWlNP2ykQcfPURIAw=="
 }
