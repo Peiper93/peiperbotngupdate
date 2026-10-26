@@ -1,11 +1,12 @@
 {
   "versao": "0.3.3",
   "novidades": [
-    "Knight começa mais seguro em caves que ainda não caçou e liga o Utito Tempo quando vê que a cave é tranquila.",
-    "O que o bot aprende em cada cave fica guardado e vale na próxima vez."
+    "Barra de magias mais inteligente",
+    "Mais proteção nas caçadas difíceis",
+    "Melhorias de estabilidade"
   ],
   "arquivo": "versoes/0.3.3/PeiperBotNG.exe",
   "sha256": "74c808cadb844d32cb9d441a6388314947ce5291e3e0481ebfaa36f3b10af4cc",
   "tamanho": 11594752,
-  "assinatura": "cFW/qo2cecelFGwjNm9krNKiqJ2OU1zeW9gLX8p+yGN7MQ6466Due8jozhcT7R9IXd7/Ccpg1/ZS6/zPsjgVCQ=="
+  "assinatura": "MTcyRLrQdeEPaq0QNu5em9MAuQM1fvy1c/pMdPGUgyXCjjnjc5Ic6x7sjutLq8dcp5y3TUIf8Uyj9DpTzc/ECw=="
 }
