@@ -1,12 +1,11 @@
 {
-  "versao": "0.3.4",
+  "versao": "0.3.5",
   "novidades": [
-    "Barra de magias mais econômica em caçadas fáceis",
-    "Equipamento conferido antes de cada caçada",
+    "Painel mostra todos os monstros da caçada",
     "Melhorias de estabilidade"
   ],
-  "arquivo": "versoes/0.3.4/PeiperBotNG.exe",
-  "sha256": "dbda47a5cd100805a7d8fea4417aa9cdb6277b7c3c38bfea7e93458c4deb7979",
-  "tamanho": 11608064,
-  "assinatura": "EKOsOTITD28mo28xHjNH5BewAhIAG4o88NHe6gvqx0Ky9RrYXyjfu/Kf8O3q5PeELhBoZXHTWKtjJL8IvLa/CQ=="
+  "arquivo": "versoes/0.3.5/PeiperBotNG.exe",
+  "sha256": "5d76c560aad94238cd46a84bcc5f6ffc0a39d6e49833df42d4c238866ea01c33",
+  "tamanho": 11607552,
+  "assinatura": "0B1bB+7RHiFokikRz54qPWQqFbxc+7o+dbhnXSeTnBoecJw8fBEHBP9rkiborGMh4OJuH1VY9ct4/aGQ8RjMAw=="
 }
