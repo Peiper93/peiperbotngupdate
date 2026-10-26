@@ -1,10 +1,11 @@
 {
-  "versao": "0.4.3",
+  "versao": "0.4.4",
   "novidades": [
-    "Melhorias de compatibilidade com antivírus"
+    "Modo Eco mais leve",
+    "Correcao na fila do Bestiary"
   ],
-  "arquivo": "versoes/0.4.3/PeiperBotNG.exe",
-  "sha256": "85368c0ad005eba8c2498cf9171d96a2cd79e87cb2f6b1db2192275a60359a25",
-  "tamanho": 11706880,
-  "assinatura": "xUwnLjWdjTdWJCVr+KoiBdJWXTq7DYqmT2H74WKq15/0/R98rvvn8BdEQ0vCZ7ZoBZmRPNb/RT48hVKMhNkuAw=="
+  "arquivo": "versoes/0.4.4/PeiperBotNG.exe",
+  "sha256": "1bcd1ceb6fe52587b62faef5281ce32d600ef89dccfb258796cdd83039b3287a",
+  "tamanho": 11719168,
+  "assinatura": "vgJeZPpri26Jgeqr0x6iYmTIe7E31bhMRIuhnDKFDE98G3XC6nAJAGwVOiHnDP9fa/sm+/qdULzviqTuFS2HCg=="
 }
