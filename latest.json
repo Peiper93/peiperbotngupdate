@@ -1,12 +1,11 @@
 {
-  "versao": "0.3.2",
+  "versao": "0.3.3",
   "novidades": [
-    "Barra automática com reflexo: fica mais segura na hora quando a vida cai rápido, para evitar mortes.",
-    "Volta a render mais depois de um tempo tranquilo, sem ficar indo e voltando.",
-    "Correção na montagem da barra em caves com monstros sem resistências."
+    "Knight começa mais seguro em caves que ainda não caçou e liga o Utito Tempo quando vê que a cave é tranquila.",
+    "O que o bot aprende em cada cave fica guardado e vale na próxima vez."
   ],
-  "arquivo": "versoes/0.3.2/PeiperBotNG.exe",
-  "sha256": "c3269bbbd86807be2ee84b45579b35dbe19ea24e324f0f10cff1c346eea121b8",
-  "tamanho": 11590656,
-  "assinatura": "DrI/eSVx3zeICmMJ2hfvcj8Nhm6Mh8ao7dJR4E7GD/pyOvjhemF+ZW0b5QFfxqidP7QRGciprqmT7luqmrr+Dg=="
+  "arquivo": "versoes/0.3.3/PeiperBotNG.exe",
+  "sha256": "74c808cadb844d32cb9d441a6388314947ce5291e3e0481ebfaa36f3b10af4cc",
+  "tamanho": 11594752,
+  "assinatura": "cFW/qo2cecelFGwjNm9krNKiqJ2OU1zeW9gLX8p+yGN7MQ6466Due8jozhcT7R9IXd7/Ccpg1/ZS6/zPsjgVCQ=="
 }
