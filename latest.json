@@ -1,11 +1,10 @@
 {
-  "versao": "0.4.4",
+  "versao": "0.4.6",
   "novidades": [
-    "Modo Eco mais leve",
-    "Correção na fila do Bestiary"
+    "Corrigido: queda de conexão durante a caçada não é mais confundida com morte sem blessings,Após morte, o bot espera o personagem renascer no Templo, recompra as 5 blessings e reagrupa a party na cidade,Caçada Fixa: ao iniciar o bot com stamina disponível, ele para o treino no dummy e entra na cave direto,Novos botões Abrir contas, Fechar contas e Barra automática no Painel (funcionam com o bot parado)"
   ],
-  "arquivo": "versoes/0.4.4/PeiperBotNG.exe",
-  "sha256": "1bcd1ceb6fe52587b62faef5281ce32d600ef89dccfb258796cdd83039b3287a",
-  "tamanho": 11719168,
-  "assinatura": "vETYF/VHwgxWF+EhTbzfpRe/LN0V0n5HE6MgOV6iVggvAsYOAkKBikLxLmXcSp3qmgC/elsi1GBX9EFGMvRmDQ=="
+  "arquivo": "versoes/0.4.6/PeiperBotNG.exe",
+  "sha256": "a3c5b54d03c77d124a94494c1638f902463025e7c9782603e91144bf2371651b",
+  "tamanho": 11780096,
+  "assinatura": "+6DL6slmTaZUiudLuj2fJh5Gr9QrKU/Ad380Dc3DAaDa3LEq/cYKWv6dBTsItz1c4JDtBclcrqDSIvryQVVeDA=="
 }
