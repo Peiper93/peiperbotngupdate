@@ -1,10 +1,10 @@
 {
-  "versao": "0.4.8",
+  "versao": "0.4.9",
   "novidades": [
-    "Seleção precisa de personagem ao cadastrar contas com mais de um char,Troca automática no jogo ao detectar char diferente do escolhido na aba Contas,Barra automática inteligente em entradas manuais e bosses"
+    "Perfis do Chrome isolados por e-mail (evita login cruzado e vazamento de sessão),Limpeza automática de sessão ao trocar de conta no slot,Aviso de segurança DPAPI quando o bot é copiado para outro computador,Bloqueio seguro no Painel impedindo inicialização com senhas vazias"
   ],
-  "arquivo": "versoes/0.4.8/PeiperBotNG.exe",
-  "sha256": "16c88f6477ec12a0619a3f92481205f41f0a9a2356278f2f87e286c438c181a2",
-  "tamanho": 11826688,
-  "assinatura": "jjQxx9u+qn3iCJ5cj/4n/ZFBF8dqcXEu248OYkf/JtNwhJ5qX4iR5VIpTy3pZMF0FnggqnD6Re29VJlbBbp7BA=="
+  "arquivo": "versoes/0.4.9/PeiperBotNG.exe",
+  "sha256": "91518f33c00faa509b931e23f81a58dd27cf39c253c13c00331000f482fc1708",
+  "tamanho": 11832832,
+  "assinatura": "GWKQvxv8BqiN4VA/udtsHGVPLoI1BsjYowbmTUdS5AFfX2iZeWHbNs3NE8sODp2nBi7L8tO7Fw43cqsLFndfAA=="
 }
