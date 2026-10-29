@@ -1,10 +1,13 @@
 {
   "versao": "0.5.0",
   "novidades": [
-    "Correção na venda rápida (Quick Sell) na cidade desvinculada da recarga da caverna,Fim do loop de entrada e saída por falta de moedas ou divisão de custos da party,Venda imediata do loot ao iniciar a caçada com os personagens na cidade,Fallback automático com logs descritivos caso a venda pelo Store falhe"
+    "Correcao na venda rapida (Quick Sell) na cidade desvinculada do cooldown da cave",
+    "Fim do loop de entrada e saida da hunt por falta de moedas / divisao de custos da party",
+    "Venda imediata de loot ao iniciar cacada fixa com chars na cidade",
+    "Fallback automatico com logs claros caso a chamada via Store falhe"
   ],
   "arquivo": "versoes/0.5.0/PeiperBotNG.exe",
   "sha256": "55cb9f221a3e501695ac8e33c3a97095004dbbefafbcf4bcfb8ea34b5f1b962d",
   "tamanho": 11832832,
-  "assinatura": "eeavtb94CQVl6CDKJeWYaoFLk8J5IbG1KbHK2lBFnkwikdU06f0khX9hFHLWpSyHovPz+vyCHpBw6eweL78eDA=="
+  "assinatura": "642Si4HhG/p1TR58RSViEhbnY/WDcK2ZXQpBgp56pMBEGpWHEv/sYE3UGapRfgih2M48wjvFHzyedeNzRvceCw=="
 }
