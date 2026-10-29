@@ -1,13 +1,13 @@
 {
   "versao": "0.5.0",
   "novidades": [
-    "Correcao na venda rapida (Quick Sell) na cidade desvinculada do cooldown da cave",
-    "Fim do loop de entrada e saida da hunt por falta de moedas / divisao de custos da party",
-    "Venda imediata de loot ao iniciar cacada fixa com chars na cidade",
-    "Fallback automatico com logs claros caso a chamada via Store falhe"
+    "Otimizacao no fluxo de venda de loot e retorno para a cacada",
+    "Melhoria na sincronizacao de custos e rotinas do grupo",
+    "Venda automatica imediata ao iniciar o bot com os personagens na cidade",
+    "Aprimoramento geral de estabilidade, sincronizacao e registros"
   ],
   "arquivo": "versoes/0.5.0/PeiperBotNG.exe",
   "sha256": "55cb9f221a3e501695ac8e33c3a97095004dbbefafbcf4bcfb8ea34b5f1b962d",
   "tamanho": 11832832,
-  "assinatura": "642Si4HhG/p1TR58RSViEhbnY/WDcK2ZXQpBgp56pMBEGpWHEv/sYE3UGapRfgih2M48wjvFHzyedeNzRvceCw=="
+  "assinatura": "ustQEA4yKNeJ+glsvreHdqkxfCtbvcz+HaHHdxYuy5Az7nmjldpRTb979OIpy5vRHKslXVdIzUNRkpoqh2nyDg=="
 }
