@@ -1,10 +1,10 @@
 {
-  "versao": "0.4.6",
+  "versao": "0.4.8",
   "novidades": [
-    "Corrigido: queda de conexão durante a caçada não é mais confundida com morte sem blessings,Após morte, o bot espera o personagem renascer no Templo, recompra as 5 blessings e reagrupa a party na cidade,Caçada Fixa: ao iniciar o bot com stamina disponível, ele para o treino no dummy e entra na cave direto,Novos botões Abrir contas, Fechar contas e Barra automática no Painel (funcionam com o bot parado)"
+    "Seleção precisa de personagem ao cadastrar contas com mais de um char,Troca automática no jogo ao detectar char diferente do escolhido na aba Contas,Barra automática inteligente em entradas manuais e bosses"
   ],
-  "arquivo": "versoes/0.4.6/PeiperBotNG.exe",
-  "sha256": "a3c5b54d03c77d124a94494c1638f902463025e7c9782603e91144bf2371651b",
-  "tamanho": 11780096,
-  "assinatura": "+6DL6slmTaZUiudLuj2fJh5Gr9QrKU/Ad380Dc3DAaDa3LEq/cYKWv6dBTsItz1c4JDtBclcrqDSIvryQVVeDA=="
+  "arquivo": "versoes/0.4.8/PeiperBotNG.exe",
+  "sha256": "16c88f6477ec12a0619a3f92481205f41f0a9a2356278f2f87e286c438c181a2",
+  "tamanho": 11826688,
+  "assinatura": "jjQxx9u+qn3iCJ5cj/4n/ZFBF8dqcXEu248OYkf/JtNwhJ5qX4iR5VIpTy3pZMF0FnggqnD6Re29VJlbBbp7BA=="
 }
