@@ -1,10 +1,10 @@
 {
-  "versao": "0.4.9",
+  "versao": "0.5.0",
   "novidades": [
-    "Perfis do Chrome isolados por e-mail (evita login cruzado e vazamento de sessão),Limpeza automática de sessão ao trocar de conta no slot,Aviso de segurança DPAPI quando o bot é copiado para outro computador,Bloqueio seguro no Painel impedindo inicialização com senhas vazias"
+    "Correção na venda rápida (Quick Sell) na cidade desvinculada da recarga da caverna,Fim do loop de entrada e saída por falta de moedas ou divisão de custos da party,Venda imediata do loot ao iniciar a caçada com os personagens na cidade,Fallback automático com logs descritivos caso a venda pelo Store falhe"
   ],
-  "arquivo": "versoes/0.4.9/PeiperBotNG.exe",
-  "sha256": "91518f33c00faa509b931e23f81a58dd27cf39c253c13c00331000f482fc1708",
+  "arquivo": "versoes/0.5.0/PeiperBotNG.exe",
+  "sha256": "55cb9f221a3e501695ac8e33c3a97095004dbbefafbcf4bcfb8ea34b5f1b962d",
   "tamanho": 11832832,
-  "assinatura": "GWKQvxv8BqiN4VA/udtsHGVPLoI1BsjYowbmTUdS5AFfX2iZeWHbNs3NE8sODp2nBi7L8tO7Fw43cqsLFndfAA=="
+  "assinatura": "eeavtb94CQVl6CDKJeWYaoFLk8J5IbG1KbHK2lBFnkwikdU06f0khX9hFHLWpSyHovPz+vyCHpBw6eweL78eDA=="
 }
