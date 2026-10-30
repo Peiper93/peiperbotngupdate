@@ -1,11 +1,11 @@
 {
-  "versao": "0.5.2",
+  "versao": "0.5.3",
   "novidades": [
-    "Mais estabilidade depois de morrer em bosses e invasões",
-    "Compra de blessings mais estável"
+    "Barra automática também nas arenas, ajustada para cada boss",
+    "Mais dano nas lutas contra bosses"
   ],
-  "arquivo": "versoes/0.5.2/PeiperBotNG.exe",
-  "sha256": "13171a864c8204d3c909b4974857a72682e689fb6597d7145468d30d26db355c",
+  "arquivo": "versoes/0.5.3/PeiperBotNG.exe",
+  "sha256": "4370e97ffb6bf108d28c7ec3204d37508d05fa1991a4c77db0b5cd853772d32e",
   "tamanho": 11836416,
-  "assinatura": "/Ub6w1Kgek2MR5FMNSvTUjaVeuJKdHi+FUe4xnscBkMeCEnkLymIVj6UT9cvKt6zrLpBAiluc0dQPjlFzc1RCg=="
+  "assinatura": "qqSvh/g8ydlArrXyBLjfA8AZesxwHJwGjBNpfQfaV7lHwbzMnf2iWavIiyincFVXCpGUcLwCzJ+mphCUsJUxCA=="
 }
