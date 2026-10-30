@@ -1,11 +1,11 @@
 {
-  "versao": "0.5.3",
+  "versao": "0.5.4",
   "novidades": [
-    "Barra automática também nas arenas, ajustada para cada boss",
-    "Mais dano nas lutas contra bosses"
+    "Mais dano de knight e paladino nas arenas",
+    "Melhorias na barra automática"
   ],
-  "arquivo": "versoes/0.5.3/PeiperBotNG.exe",
-  "sha256": "4370e97ffb6bf108d28c7ec3204d37508d05fa1991a4c77db0b5cd853772d32e",
-  "tamanho": 11836416,
-  "assinatura": "qqSvh/g8ydlArrXyBLjfA8AZesxwHJwGjBNpfQfaV7lHwbzMnf2iWavIiyincFVXCpGUcLwCzJ+mphCUsJUxCA=="
+  "arquivo": "versoes/0.5.4/PeiperBotNG.exe",
+  "sha256": "44c8eb5628d67e512285f6106d99897f703c8b385966bc407c83dddc8d92958e",
+  "tamanho": 11840512,
+  "assinatura": "cn7Gcajax4EKS+Mp4dybFqoSphgVU10hj2UHXPwmX9CGxwgNd8Caan5qTIOZPpSqpTrTSr13Nrk5Pkn42W7LCA=="
 }
