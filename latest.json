@@ -1,11 +1,11 @@
 {
-  "versao": "0.5.1",
+  "versao": "0.5.2",
   "novidades": [
-    "Melhorias de estabilidade e reconexao das contas",
-    "Fechar o programa com o bot rodando ficou mais seguro"
+    "Mais estabilidade depois de morrer em bosses e invasões",
+    "Compra de blessings mais estável"
   ],
-  "arquivo": "versoes/0.5.1/PeiperBotNG.exe",
-  "sha256": "b9c7034356c2a8880f17ff0bbf1cc05f19ffa74ef0499824e26d06cb14a1fc26",
+  "arquivo": "versoes/0.5.2/PeiperBotNG.exe",
+  "sha256": "13171a864c8204d3c909b4974857a72682e689fb6597d7145468d30d26db355c",
   "tamanho": 11836416,
-  "assinatura": "DbgBM9tM9XD9pxcs/L3tpwlYcv9Uy7rEuIbv+ZyKgOg0eJ7m2CuxaKEoT1ipTIytvxwu0zH8W0Y1rMjDfr3bBQ=="
+  "assinatura": "/Ub6w1Kgek2MR5FMNSvTUjaVeuJKdHi+FUe4xnscBkMeCEnkLymIVj6UT9cvKt6zrLpBAiluc0dQPjlFzc1RCg=="
 }
