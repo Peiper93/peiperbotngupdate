@@ -1,13 +1,11 @@
 {
-  "versao": "0.5.0",
+  "versao": "0.5.1",
   "novidades": [
-    "Otimizacao no fluxo de venda de loot e retorno para a cacada",
-    "Melhoria na sincronizacao de custos e rotinas do grupo",
-    "Venda automatica imediata ao iniciar o bot com os personagens na cidade",
-    "Aprimoramento geral de estabilidade, sincronizacao e registros"
+    "Melhorias de estabilidade e reconexao das contas",
+    "Fechar o programa com o bot rodando ficou mais seguro"
   ],
-  "arquivo": "versoes/0.5.0/PeiperBotNG.exe",
-  "sha256": "55cb9f221a3e501695ac8e33c3a97095004dbbefafbcf4bcfb8ea34b5f1b962d",
-  "tamanho": 11832832,
-  "assinatura": "ustQEA4yKNeJ+glsvreHdqkxfCtbvcz+HaHHdxYuy5Az7nmjldpRTb979OIpy5vRHKslXVdIzUNRkpoqh2nyDg=="
+  "arquivo": "versoes/0.5.1/PeiperBotNG.exe",
+  "sha256": "b9c7034356c2a8880f17ff0bbf1cc05f19ffa74ef0499824e26d06cb14a1fc26",
+  "tamanho": 11836416,
+  "assinatura": "DbgBM9tM9XD9pxcs/L3tpwlYcv9Uy7rEuIbv+ZyKgOg0eJ7m2CuxaKEoT1ipTIytvxwu0zH8W0Y1rMjDfr3bBQ=="
 }
