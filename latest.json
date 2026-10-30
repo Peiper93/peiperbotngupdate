@@ -1,11 +1,12 @@
 {
-  "versao": "0.5.4",
+  "versao": "0.5.6",
   "novidades": [
-    "Mais dano de knight e paladino nas arenas",
-    "Melhorias na barra automática"
+    "Programa mais leve no PC",
+    "Libera espaço em disco usado por versões antigas",
+    "Aviso quando as senhas precisam ser digitadas de novo neste computador"
   ],
-  "arquivo": "versoes/0.5.4/PeiperBotNG.exe",
-  "sha256": "44c8eb5628d67e512285f6106d99897f703c8b385966bc407c83dddc8d92958e",
-  "tamanho": 11840512,
-  "assinatura": "cn7Gcajax4EKS+Mp4dybFqoSphgVU10hj2UHXPwmX9CGxwgNd8Caan5qTIOZPpSqpTrTSr13Nrk5Pkn42W7LCA=="
+  "arquivo": "versoes/0.5.6/PeiperBotNG.exe",
+  "sha256": "38760ccd16065375fc5b5bdd8a43d1c19e4f8e10c776d60770a7b649c163e83e",
+  "tamanho": 11792896,
+  "assinatura": "oLFSL+jnx5DsBgjI4eK4UbGgUI9lo5jvGKNCOimgAOIiWaql5a/c3XKcidWY3+isOYu+Kxe6+ev3oW6IXyqWAQ=="
 }
