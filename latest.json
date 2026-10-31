@@ -1,11 +1,11 @@
 {
-  "versao": "0.6.1",
+  "versao": "0.6.2",
   "novidades": [
-    "Entrada no jogo mais confiável perto do Server Save",
-    "Aviso quando o nome de um personagem está errado ou repetido na aba Contas"
+    "Botão \"Ver tela\" do Painel no site mais confiável",
+    "Com duas PTs, dá para ver a tela de todas as 8 contas pelo site"
   ],
-  "arquivo": "versoes/0.6.1/PeiperBotNG.exe",
-  "sha256": "2e495c0a14fc925311faf5d8b85c3050b8b69282a79671a08ebf3ebdb8d8e366",
-  "tamanho": 12023296,
-  "assinatura": "5rZ6eHFFE3W5P4OAn2qjYJ6ae/3KzR9wNLxdxsWGZdfsczPIKWpcNvCVwiWDmOmMsmPtVs2kGsTsvL4Hh0CwAw=="
+  "arquivo": "versoes/0.6.2/PeiperBotNG.exe",
+  "sha256": "fbd1ee77631983ddf786d0d66292820deda4ed9612b7c0741f33f16929837a68",
+  "tamanho": 12032512,
+  "assinatura": "yq5h6dhHBCnoqeGRRlyBkPvyubbMgkxLyJWB2H2iEN0GdJGBd12O7CsGa9DKpiAabJeho/4bXoEeKJ012giUAg=="
 }
