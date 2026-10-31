@@ -1,10 +1,10 @@
 {
-  "versao": "0.5.10",
+  "versao": "0.5.11",
   "novidades": [
-    "Atualizar ficou mais fácil: não precisa mais fechar as janelas do jogo"
+    "Painel no site: veja a tela de cada personagem pelo celular"
   ],
-  "arquivo": "versoes/0.5.10/PeiperBotNG.exe",
-  "sha256": "90024ba1fd902a5655a12923bc7012b46a5bdc16a47f14fe95e84e800dd7193e",
-  "tamanho": 11894272,
-  "assinatura": "JSmohNRFuNXDdsype8W3736PUUlI2SCCKitbJ5ohbC+wLFG+WSkOCUM0JX1xKE3Pmc94g2cRGpMndgmWEaMkCA=="
+  "arquivo": "versoes/0.5.11/PeiperBotNG.exe",
+  "sha256": "8e9f87b9262340571d630c472a06f831c3ff7201c306700d7399c558d1197bae",
+  "tamanho": 11913728,
+  "assinatura": "X6dllnbiUks7ZuIVapIP8ved0qsIJVdZlzzEIlFnsHoPFtGaq2tHmTHKh95cobyrlZJBs66zLFyfm+0DtYTWDQ=="
 }
