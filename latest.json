@@ -1,11 +1,11 @@
 {
-  "versao": "0.5.7",
+  "versao": "0.5.8",
   "novidades": [
-    "Arenas mais rápidas: dano concentrado no boss",
-    "Melhorias na barra automática"
+    "Melhorias de estabilidade",
+    "Pausar na cidade mais confiável"
   ],
-  "arquivo": "versoes/0.5.7/PeiperBotNG.exe",
-  "sha256": "4542e0850dc49e58c619eb8654579cf5995ccba6e1cefc2ba716424d86ccb778",
-  "tamanho": 11796992,
-  "assinatura": "rx/egySVMNTwHYA3ry06PVkXNkKAYiqgX4UIP8S2usUTIfZgLr0tHso2ocva1LvQ3Jiqzft0knGpreVNEHp0Dw=="
+  "arquivo": "versoes/0.5.8/PeiperBotNG.exe",
+  "sha256": "381d0e29872f485580cb533b4e028eabfad48c4ae802cdc3503157af64fa6f66",
+  "tamanho": 11801088,
+  "assinatura": "vEW3spAJMtNj/aOpTKDuZ0HyuOOKrpfyJb6plp1+gFJ1tY6V05tONsCNwpSqIifhoekR6DxqQcjI0X8mlr+mAw=="
 }
