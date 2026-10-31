@@ -1,10 +1,10 @@
 {
-  "versao": "0.5.9",
+  "versao": "0.5.10",
   "novidades": [
-    "Painel no site: veja o bot e os seus personagens pelo celular em peiperbot.com/painel"
+    "Atualizar ficou mais fácil: não precisa mais fechar as janelas do jogo"
   ],
-  "arquivo": "versoes/0.5.9/PeiperBotNG.exe",
-  "sha256": "e0d49132c92f0f837f19bc82c8c116b98f1f684e579293b662877813073291c0",
-  "tamanho": 11893248,
-  "assinatura": "1BKwR2ln0boL1j0i52tx8hopiNLUrtm0T7RvqDYM1gFBGlJY5r8imrZTHYWS94ty5ep2wOl6pdwlY1iSMdZJCg=="
+  "arquivo": "versoes/0.5.10/PeiperBotNG.exe",
+  "sha256": "90024ba1fd902a5655a12923bc7012b46a5bdc16a47f14fe95e84e800dd7193e",
+  "tamanho": 11894272,
+  "assinatura": "JSmohNRFuNXDdsype8W3736PUUlI2SCCKitbJ5ohbC+wLFG+WSkOCUM0JX1xKE3Pmc94g2cRGpMndgmWEaMkCA=="
 }
