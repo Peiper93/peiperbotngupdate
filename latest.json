@@ -1,11 +1,11 @@
 {
-  "versao": "0.6.2",
+  "versao": "0.6.3",
   "novidades": [
-    "Botão \"Ver tela\" do Painel no site mais confiável",
-    "Com duas PTs, dá para ver a tela de todas as 8 contas pelo site"
+    "Painel no site: a tela de cada conta aparece sozinha e se atualiza a cada 15 minutos",
+    "Botão \"Atualizar agora\" para ver a tela daquele instante"
   ],
-  "arquivo": "versoes/0.6.2/PeiperBotNG.exe",
-  "sha256": "fbd1ee77631983ddf786d0d66292820deda4ed9612b7c0741f33f16929837a68",
-  "tamanho": 12032512,
-  "assinatura": "yq5h6dhHBCnoqeGRRlyBkPvyubbMgkxLyJWB2H2iEN0GdJGBd12O7CsGa9DKpiAabJeho/4bXoEeKJ012giUAg=="
+  "arquivo": "versoes/0.6.3/PeiperBotNG.exe",
+  "sha256": "2f5acdb6e4af7d5be3befc4d618b6bb6d7b0a9dceb1217a9e66db0772058b20d",
+  "tamanho": 12066816,
+  "assinatura": "FW+dqosxXz6RWOrOco+jTseNDKzGi4oJOKaV/BUJT7dqHWfeg2+N05BrqCMsAhPwPYmN/1v5tHKusryi/dZlBg=="
 }
