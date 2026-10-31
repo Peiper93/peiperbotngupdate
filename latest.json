@@ -1,10 +1,10 @@
 {
-  "versao": "0.5.11",
+  "versao": "0.6.0",
   "novidades": [
-    "Painel no site: veja a tela de cada personagem pelo celular"
+    "Duas PTs ao mesmo tempo: até 8 contas, cada PT caçando na sua cave"
   ],
-  "arquivo": "versoes/0.5.11/PeiperBotNG.exe",
-  "sha256": "8e9f87b9262340571d630c472a06f831c3ff7201c306700d7399c558d1197bae",
-  "tamanho": 11913728,
-  "assinatura": "X6dllnbiUks7ZuIVapIP8ved0qsIJVdZlzzEIlFnsHoPFtGaq2tHmTHKh95cobyrlZJBs66zLFyfm+0DtYTWDQ=="
+  "arquivo": "versoes/0.6.0/PeiperBotNG.exe",
+  "sha256": "cfcecd36beebee7c824e3aeb7eadfad0812343947e19c5cdda494fdd8a96f94a",
+  "tamanho": 12018688,
+  "assinatura": "nYXupvp267pn+zia8IX6da4aDf0XBzA9uH3yLxekmuiPF2FZ+O+NQsstFqcVUzkOda5LD72gLAZoy8ldjVHHAA=="
 }
