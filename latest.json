@@ -1,11 +1,10 @@
 {
-  "versao": "0.5.8",
+  "versao": "0.5.9",
   "novidades": [
-    "Melhorias de estabilidade",
-    "Pausar na cidade mais confiável"
+    "Painel no site: veja o bot e os seus personagens pelo celular em peiperbot.com/painel"
   ],
-  "arquivo": "versoes/0.5.8/PeiperBotNG.exe",
-  "sha256": "381d0e29872f485580cb533b4e028eabfad48c4ae802cdc3503157af64fa6f66",
-  "tamanho": 11801088,
-  "assinatura": "vEW3spAJMtNj/aOpTKDuZ0HyuOOKrpfyJb6plp1+gFJ1tY6V05tONsCNwpSqIifhoekR6DxqQcjI0X8mlr+mAw=="
+  "arquivo": "versoes/0.5.9/PeiperBotNG.exe",
+  "sha256": "e0d49132c92f0f837f19bc82c8c116b98f1f684e579293b662877813073291c0",
+  "tamanho": 11893248,
+  "assinatura": "1BKwR2ln0boL1j0i52tx8hopiNLUrtm0T7RvqDYM1gFBGlJY5r8imrZTHYWS94ty5ep2wOl6pdwlY1iSMdZJCg=="
 }
