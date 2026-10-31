@@ -1,12 +1,11 @@
 {
-  "versao": "0.5.6",
+  "versao": "0.5.7",
   "novidades": [
-    "Programa mais leve no PC",
-    "Libera espaço em disco usado por versões antigas",
-    "Aviso quando as senhas precisam ser digitadas de novo neste computador"
+    "Arenas mais rápidas: dano concentrado no boss",
+    "Melhorias na barra automática"
   ],
-  "arquivo": "versoes/0.5.6/PeiperBotNG.exe",
-  "sha256": "38760ccd16065375fc5b5bdd8a43d1c19e4f8e10c776d60770a7b649c163e83e",
-  "tamanho": 11792896,
-  "assinatura": "oLFSL+jnx5DsBgjI4eK4UbGgUI9lo5jvGKNCOimgAOIiWaql5a/c3XKcidWY3+isOYu+Kxe6+ev3oW6IXyqWAQ=="
+  "arquivo": "versoes/0.5.7/PeiperBotNG.exe",
+  "sha256": "4542e0850dc49e58c619eb8654579cf5995ccba6e1cefc2ba716424d86ccb778",
+  "tamanho": 11796992,
+  "assinatura": "rx/egySVMNTwHYA3ry06PVkXNkKAYiqgX4UIP8S2usUTIfZgLr0tHso2ocva1LvQ3Jiqzft0knGpreVNEHp0Dw=="
 }
