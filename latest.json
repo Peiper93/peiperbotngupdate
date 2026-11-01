@@ -1,10 +1,11 @@
 {
-  "versao": "0.6.8",
+  "versao": "0.6.9",
   "novidades": [
-    "Painel: XP por hora de cada personagem, também em contas free"
+    "XP por hora no Painel também para quem atualizou com o jogo aberto",
+    "Painel: vocação e level dos personagens com espaço certo"
   ],
-  "arquivo": "versoes/0.6.8/PeiperBotNG.exe",
-  "sha256": "8201c3411665d1cc73d801be6fc6a73cafe6df1898e9377de2edb125adff6617",
-  "tamanho": 12084224,
-  "assinatura": "DriGaaRhGzBlyXeqzlGOUCiLcJ+FM3ROZsJAXrSq2cqafC6xp7UBfiThBIagpUmkhCVgjEjQGiDg4Fmh9nRxBg=="
+  "arquivo": "versoes/0.6.9/PeiperBotNG.exe",
+  "sha256": "75de5527c517c12cacdedb7bbed58219b192f947b0230ec6ebe6022c0b0524ab",
+  "tamanho": 12087296,
+  "assinatura": "84MnJWPh2SQePKrg08L4Lb2N8he+mby9pC7vgLhxJCq3zPDNul0BwbfKO0poV/7zj+xtDSDQE6Vb1FPAUThAAA=="
 }
