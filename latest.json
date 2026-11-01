@@ -1,11 +1,10 @@
 {
-  "versao": "0.6.7",
+  "versao": "0.6.8",
   "novidades": [
-    "Configuração mais segura: o programa avisa se não conseguir ler ou salvar",
-    "Menos carga no computador quando uma janela do jogo trava"
+    "Painel: XP por hora de cada personagem, também em contas free"
   ],
-  "arquivo": "versoes/0.6.7/PeiperBotNG.exe",
-  "sha256": "180cdd25559802bb0066e45654a7f4ac877e8fe2d17fe49def7efe4df8752d0e",
-  "tamanho": 12094464,
-  "assinatura": "9Deaq3kGcUfffn+W8GYoPEtj73eM2NWfFH3DiGsNoFhJP7hbyvfBH/SFUevbSacJ/7sRrGURK/KY61Gk1taoBQ=="
+  "arquivo": "versoes/0.6.8/PeiperBotNG.exe",
+  "sha256": "8201c3411665d1cc73d801be6fc6a73cafe6df1898e9377de2edb125adff6617",
+  "tamanho": 12084224,
+  "assinatura": "DriGaaRhGzBlyXeqzlGOUCiLcJ+FM3ROZsJAXrSq2cqafC6xp7UBfiThBIagpUmkhCVgjEjQGiDg4Fmh9nRxBg=="
 }
