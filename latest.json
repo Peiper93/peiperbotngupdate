@@ -1,11 +1,11 @@
 {
-  "versao": "0.6.9",
+  "versao": "0.6.10",
   "novidades": [
-    "XP por hora no Painel também para quem atualizou com o jogo aberto",
-    "Painel: vocação e level dos personagens com espaço certo"
+    "Painel: XP por hora sem ficar coberto pelo status da conta",
+    "Bestiary: nomes das caves mais legíveis na fila"
   ],
-  "arquivo": "versoes/0.6.9/PeiperBotNG.exe",
-  "sha256": "75de5527c517c12cacdedb7bbed58219b192f947b0230ec6ebe6022c0b0524ab",
+  "arquivo": "versoes/0.6.10/PeiperBotNG.exe",
+  "sha256": "13464330f59db69204bc549e292f7b9da17d143615645849cd96b1c4ccd904f0",
   "tamanho": 12087296,
-  "assinatura": "84MnJWPh2SQePKrg08L4Lb2N8he+mby9pC7vgLhxJCq3zPDNul0BwbfKO0poV/7zj+xtDSDQE6Vb1FPAUThAAA=="
+  "assinatura": "N0/0f8Jtyy0tbZlzurJqzz24evvKKlJf4T1/3mJlvU1jiUBBb+i/JIMvQssLBetJsrEHE30+QrJQ1atYCzInCA=="
 }
