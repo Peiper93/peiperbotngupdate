@@ -1,11 +1,11 @@
 {
-  "versao": "0.6.5",
+  "versao": "0.6.6",
   "novidades": [
-    "Duas PTs: dá para iniciar só uma delas e jogar com a outra",
-    "Bestiary espera a PT sair do boss diário antes de seguir a fila"
+    "Parar fica mais confiável em computadores lentos",
+    "Pausar na cidade mais confiável no Bestiary"
   ],
-  "arquivo": "versoes/0.6.5/PeiperBotNG.exe",
-  "sha256": "da81626647760bd3e9ae39f147a4a3d579ea306f98cddbe4a931c499ebc80d5e",
-  "tamanho": 12085248,
-  "assinatura": "IS5tUuJM8TC20O3E2sqf0S0itgaCWSicoTH2VB3fAf1V+7cz+ZqCY13WjzwgC2iePw6E/v6hSiUNjnGtZoFtAA=="
+  "arquivo": "versoes/0.6.6/PeiperBotNG.exe",
+  "sha256": "0c304c120e83248db8547af171578b21c9a5e287dd84b18be43486dfe01181bc",
+  "tamanho": 12091392,
+  "assinatura": "BbHc88IFmDXJ2bUwPlVqnYpwfBWpVmZQor6iFxbEjnNow4toYE3EaiO17vmDxFXwnPXGJfAg75tkN9H8LZvZCw=="
 }
