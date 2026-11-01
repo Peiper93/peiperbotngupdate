@@ -1,11 +1,11 @@
 {
-  "versao": "0.6.6",
+  "versao": "0.6.7",
   "novidades": [
-    "Parar fica mais confiável em computadores lentos",
-    "Pausar na cidade mais confiável no Bestiary"
+    "Configuração mais segura: o programa avisa se não conseguir ler ou salvar",
+    "Menos carga no computador quando uma janela do jogo trava"
   ],
-  "arquivo": "versoes/0.6.6/PeiperBotNG.exe",
-  "sha256": "0c304c120e83248db8547af171578b21c9a5e287dd84b18be43486dfe01181bc",
-  "tamanho": 12091392,
-  "assinatura": "BbHc88IFmDXJ2bUwPlVqnYpwfBWpVmZQor6iFxbEjnNow4toYE3EaiO17vmDxFXwnPXGJfAg75tkN9H8LZvZCw=="
+  "arquivo": "versoes/0.6.7/PeiperBotNG.exe",
+  "sha256": "180cdd25559802bb0066e45654a7f4ac877e8fe2d17fe49def7efe4df8752d0e",
+  "tamanho": 12094464,
+  "assinatura": "9Deaq3kGcUfffn+W8GYoPEtj73eM2NWfFH3DiGsNoFhJP7hbyvfBH/SFUevbSacJ/7sRrGURK/KY61Gk1taoBQ=="
 }
