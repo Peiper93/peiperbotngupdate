@@ -1,11 +1,10 @@
 {
-  "versao": "0.6.10",
+  "versao": "0.6.11",
   "novidades": [
-    "Painel: XP por hora sem ficar coberto pelo status da conta",
-    "Bestiary: nomes das caves mais legíveis na fila"
+    "Novo botão Reconectar e seguir: mantém as contas conectadas e acompanha o líder da sua party"
   ],
-  "arquivo": "versoes/0.6.10/PeiperBotNG.exe",
-  "sha256": "13464330f59db69204bc549e292f7b9da17d143615645849cd96b1c4ccd904f0",
-  "tamanho": 12087296,
-  "assinatura": "N0/0f8Jtyy0tbZlzurJqzz24evvKKlJf4T1/3mJlvU1jiUBBb+i/JIMvQssLBetJsrEHE30+QrJQ1atYCzInCA=="
+  "arquivo": "versoes/0.6.11/PeiperBotNG.exe",
+  "sha256": "3be94237c27dbea5516819da6a24493e6dbdf306f1a7a844c88fe9c1ebe0129f",
+  "tamanho": 12097024,
+  "assinatura": "vJ8LokjI93uTU3bgDEO6kKOKynYFvyVLOxEqJt7hLcqfdZVTLWWUFx+J4SmlmRrHU7XY9RzFbiP9wX++T8h1DA=="
 }
