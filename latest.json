@@ -1,10 +1,10 @@
 {
-  "versao": "0.6.11",
+  "versao": "0.7.0",
   "novidades": [
-    "Novo botão Reconectar e seguir: mantém as contas conectadas e acompanha o líder da sua party"
+    "Painel: o XP por hora de cada personagem não despenca mais no meio da caçada"
   ],
-  "arquivo": "versoes/0.6.11/PeiperBotNG.exe",
-  "sha256": "3be94237c27dbea5516819da6a24493e6dbdf306f1a7a844c88fe9c1ebe0129f",
+  "arquivo": "versoes/0.7.0/PeiperBotNG.exe",
+  "sha256": "929584cc1a5a6d2589aa4c7169477793ef105b42ebf3fc28ddeab89883f5c291",
   "tamanho": 12097024,
-  "assinatura": "vJ8LokjI93uTU3bgDEO6kKOKynYFvyVLOxEqJt7hLcqfdZVTLWWUFx+J4SmlmRrHU7XY9RzFbiP9wX++T8h1DA=="
+  "assinatura": "yuoYr1mbRj/QSSbpINLdqf77ALj3MW9UQ6LGwkSWN/0OKT2RcaQ6Q8RKmZ6wByTtrXyuY0PNiE0w5HG4xzU9Aw=="
 }
